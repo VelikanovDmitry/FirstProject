@@ -7,7 +7,7 @@ MainWindow::MainWindow(QWidget *parent) :
 {
 
     _label = new QLabel(this);
-    _label->setText("Hello me!!!");
+    _label->setText("Hello me!!! And you too =)");
 
     ui->setupUi(this);
 }
