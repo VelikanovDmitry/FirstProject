@@ -18,7 +18,7 @@ public:
 
 private:
     Ui::MainWindow *ui;
-    QLabel &_label;
+    QLabel *_label;
 };
 
 #endif // MAINWINDOW_H
